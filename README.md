@@ -1,5 +1,9 @@
 # 报恩这件小事
 
+[![Live Site](https://img.shields.io/badge/live-baoen--zhe--jian--xiao--shi.vercel.app-c85a3a?style=flat-square&logo=vercel&logoColor=white)](https://baoen-zhe-jian-xiao-shi.vercel.app)
+[![Deploy](https://img.shields.io/badge/deploy-GitHub→Vercel-000?style=flat-square&logo=github)](https://github.com/lukeliu95/baoen-zhe-jian-xiao-shi)
+[![Score](https://img.shields.io/badge/4_masters-86.75/100-b58d3f?style=flat-square)](#大师评审)
+
 一篇被余华、王小波、莫言、刘震云四位大师 Agent 联合审稿至 **86.75/100** 的短篇小说,以及它的网站。
 
 > 江苏南通,初三少年,白鳝报恩,转籍归家。
